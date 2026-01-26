@@ -34,7 +34,7 @@ I believe the best PMs build "Technical Empathy" by getting their hands dirty wi
 ---
 
 <div align="left">
-  <a href="https://www.linkedin.com/in/apjvarun/" target="_blank">
+  <a href="https://www.linkedin.com/in/varun-gupta10/" target="_blank">
     <img src="https://img.shields.io/badge/Connect_on-LinkedIn-blue?style=for-the-badge&logo=linkedin" alt="Connect on LinkedIn" />
   </a>
 </div>
