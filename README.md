@@ -10,6 +10,13 @@ I believe the best PMs build "Technical Empathy" by getting their hands dirty wi
 
 ### 🚀 What I'm Building
 
+#### 🚢 [ShipOrKill: AI Product Discovery Agent](https://github.com/apjvarun/PM_ShipOrKill)
+*An autonomous "Red Team" agent that helps Product Managers validate hypotheses in seconds, not weeks.*
+
+* **The Problem:** Product discovery is often plagued by confirmation bias and slow feedback loops.
+* **The Solution:** A decision-support agent that uses **Chain-of-Thought reasoning** to objectively evaluate ideas against Desirability, Viability, and Feasibility risks.
+* **The Tech:** Built with **Gemini CLI**, Python, and Streamlit. Features autonomous web search grounding and structured "Senior PM" persona prompting.
+
 #### 🦁 [Mr. Market's Intelligent Terminal](https://github.com/apjvarun/projectMrMarket)
 *A GenAI-powered financial dashboard that democratizes Bloomberg-level insights for the moderate investor.*
 
@@ -20,8 +27,8 @@ I believe the best PMs build "Technical Empathy" by getting their hands dirty wi
 ---
 
 ### 🛠️ Technical Toolkit
+* **AI & Agents:** Retrieval-Augmented Generation (RAG), CLI-based Agentic Workflows (Gemini CLI), Prompt Engineering, LLM Evaluation.
 * **Prototyping:** Python, Streamlit, Pandas.
-* **AI/ML Strategy:** Retrieval-Augmented Generation (RAG), Prompt Engineering, LLM Evaluation.
 * **Data & Viz:** Plotly, SQL, API Integration.
 
 ---
